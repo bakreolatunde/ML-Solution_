@@ -1,0 +1,4 @@
+cluster,size,gpa_semester_1,attendance_rate,assignments_submitted_rate,missed_deadlines,lms_logins_per_week,stress_level,dropout
+0,15852,2.186,76.709,73.507,6.745,6.555,6.561,0.503
+1,48243,3.048,83.664,81.937,1.122,8.304,6.294,0.1
+2,35905,2.092,62.888,56.382,2.121,6.203,6.605,0.535

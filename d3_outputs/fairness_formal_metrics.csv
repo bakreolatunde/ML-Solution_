@@ -1,0 +1,7 @@
+cutoff,attribute,demographic_parity_gap,equal_opportunity_gap (recall),fpr_gap,equalised_odds_gap,precision_gap
+Default 0.50,gender,0.007,0.0396,0.0293,0.0396,0.0716
+Default 0.50,family_income_level,0.26,0.21,0.097,0.21,0.0598
+Default 0.50,disability_status,0.0717,0.0601,0.027,0.0601,0.0111
+Chosen 0.34,gender,0.0159,0.0061,0.024,0.024,0.0377
+Chosen 0.34,family_income_level,0.297,0.1676,0.1585,0.1676,0.0903
+Chosen 0.34,disability_status,0.069,0.0375,0.0318,0.0375,0.0265

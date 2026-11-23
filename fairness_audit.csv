@@ -1,0 +1,9 @@
+,attribute,n,actual dropout rate,predicted dropout rate,recall (true positive rate),false positive rate
+Female,gender,12592.0,0.3173,0.2633,0.6454,0.0857
+Male,gender,11953.0,0.3222,0.2665,0.652,0.0833
+Other,gender,455.0,0.3385,0.2527,0.6364,0.0565
+High,family_income_level,6212.0,0.2001,0.1603,0.5599,0.0604
+Low,family_income_level,8701.0,0.4291,0.3769,0.7137,0.1236
+Middle,family_income_level,10087.0,0.2998,0.2322,0.6042,0.0729
+0,disability_status,19765.0,0.3089,0.2522,0.637,0.0802
+1,disability_status,5235.0,0.3622,0.3119,0.6851,0.1

@@ -1,0 +1,4 @@
+group,group cutoff,recall (single cutoff),FPR (single cutoff),recall (group cutoffs),FPR (group cutoffs)
+Low,0.42,0.8563,0.2633,0.8112,0.1916
+Middle,0.34,0.7827,0.1593,0.7827,0.1593
+High,0.22,0.6886,0.1048,0.7982,0.173
